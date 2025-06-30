@@ -1,4 +1,4 @@
-# AWS ECS Deep Dive
+# AWS ECS 
 
 ## Introduction
 
